@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/3d59d65f-14ab-4fff-8ac4-72f1bb39d073
   - Link navigasi kembali ke login
 
 ### 2. **Home Screen**
-- **Top Navigation Bar**: Menampilkan logo aplikasi dan judul "Persib App"
+- **Top Navigation Bar**: Menampilkan logo aplikasi dan judul "ManUnited App"
 - **Jadwal Pertandingan**: Menampilkan informasi match (tim, tanggal, waktu, lokasi)
 - **Menu Utama**: 
   - 👤 Player
