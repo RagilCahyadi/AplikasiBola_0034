@@ -5,6 +5,10 @@
 ## Mobile Programming Universitas Internasional Semen Indonesia 2025
 Lecturer : **Moch. Nurul Indra Al Fauzan**
 
+## 📱 Demo Penggunaan
+
+https://github.com/user-attachments/assets/3d59d65f-14ab-4fff-8ac4-72f1bb39d073
+
 ## 🎯 Fitur Utama
 
 ### 1. **Autentikasi**
@@ -67,10 +71,6 @@ Lecturer : **Moch. Nurul Indra Al Fauzan**
 - **Custom Navigation** dengan proper back button handling
 - **Form Validation** dengan error messages yang jelas
 - **SingleChildScrollView** untuk menangani keyboard popup
-
-## 📱 Demo Penggunaan
-
-https://github.com/RagilCahyadi/AplikasiBola_0034/blob/main/assets/videos/AplikasiBola_0034.webm
 
 ### Alur Penggunaan:
 1. **Splash/Login** → Masukkan email & password
