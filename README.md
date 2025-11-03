@@ -70,7 +70,7 @@ Lecturer : **Moch. Nurul Indra Al Fauzan**
 
 ## 📱 Demo Penggunaan
 
-![Aplikasi Bola Demo](./assets/videos/AplikasiBola_0034.webm)
+https://github.com/RagilCahyadi/AplikasiBola_0034/blob/main/assets/videos/AplikasiBola_0034.webm
 
 ### Alur Penggunaan:
 1. **Splash/Login** → Masukkan email & password
